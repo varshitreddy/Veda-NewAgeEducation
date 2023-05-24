@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+
+body{
+  font-family: 'Roboto', arial, sans-serif;
+  overflow-x: hidden;
+  font-size: 14px;
+  background-color: white;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+  display: flex;
+  color: #fff;
+  background-color: black;
+  height: 100%;
+}
+.home{
+  color: #fff;
+  background-color: black;
+}
