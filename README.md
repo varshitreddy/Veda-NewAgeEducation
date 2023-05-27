@@ -1,3 +1,14 @@
+result Screenshots:
+
+
+![WhatsApp Image 2023-05-23 at 7 21 26 PM](https://github.com/varshitreddy/Veda-NewAgeEducation/assets/93257990/48491f8e-7a19-4fce-8b3a-573d64340ef7)
+![WhatsApp Image 2023-05-23 at 7 21 26 PM (4)](https://github.com/varshitreddy/Veda-NewAgeEducation/assets/93257990/8a4efe43-0492-4aff-a2f0-00058163ebb1)
+![WhatsApp Image 2023-05-23 at 7 21 26 PM (3)](https://github.com/varshitreddy/Veda-NewAgeEducation/assets/93257990/79dcec93-587c-4863-824b-c938e6baea32)
+![WhatsApp Image 2023-05-23 at 7 21 26 PM (2)](https://github.com/varshitreddy/Veda-NewAgeEducation/assets/93257990/6b9700e3-6701-470d-aa98-303ef5bff2d6)
+![WhatsApp Image 2023-05-23 at 7 21 26 PM (1)](https://github.com/varshitreddy/Veda-NewAgeEducation/assets/93257990/54e0d04d-975a-412f-a39d-81d46ad79795)
+![Screenshot (111)](https://github.com/varshitreddy/Veda-NewAgeEducation/assets/93257990/bc1b92a1-4391-42da-8bb9-5005de84fe19)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
